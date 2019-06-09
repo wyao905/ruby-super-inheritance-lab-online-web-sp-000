@@ -8,4 +8,8 @@ def ChattyStudent
     super
     i = 0
     while i < 10
-      puts ""
+      puts "Pick me!"
+      i += 1
+    end
+  end
+end
